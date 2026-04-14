@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: #a7d8f7;
+    display: flex;
+    flex-direction: column;
+}
+
+ h1, h2, h3 {
+    color: black;
+    text-align: center;
+ }
+
+ header {
+    background-color: #a7d8f7;
+    color: black;
+    padding: 20px 0;
+ }
+
+.Desabafar { 
+   background-color: #ffff;
+   border-radius: 12px;
+   padding: 20px;
+   text-align: center;
+}
+
+.Desabafar:hover {
+   transform: scale(1.02);
+}
+
+.Desabafar h2 {
+   color: black;
+   margin-bottom: 10px;
+}
+
+.Desabafar h3 {
+   color: black;
+   font-weight: normal;
+}
+
+.Ajuda {
+   background-color: #ffff;
+   border-radius: 12px;
+   padding: 20px;
+   text-align: center;
+}
+
+.Ajuda h2 {
+   color: black;
+   margin-bottom: 10px;
+}
+
+.Ajuda h3 {
+   color: black;
+   font-weight: normal;
+}
+
+.Humor {
+   background-color: #ffff;
+   border-radius: 20px;
+   color: #a7d8f7;
+
+}
+
+.RecuperarSenha {
+   background-color: #ffff;
+   border-radius: 12px;
+}
+
+.RecuperarSenha h2
