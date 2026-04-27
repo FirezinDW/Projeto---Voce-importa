@@ -67,6 +67,11 @@ body {
 .RecuperarSenha {
    background-color: #ffff;
    border-radius: 12px;
+   max-width: 300px;
+   margin: 40px auto;
+   padding: 20px;
+   border-radius: 8px;
+   
 }
 
 .RecuperarSenha h2 {
