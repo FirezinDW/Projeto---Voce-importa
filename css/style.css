@@ -71,11 +71,13 @@ body {
    margin: 40px auto;
    padding: 20px;
    border-radius: 8px;
-   
+   text-align: center;
+   font-family: sans-serif;
 }
 
 .RecuperarSenha h2 {
    color: #a7d8f7;
+   
 }
 
 .RecuperarSenha form{
